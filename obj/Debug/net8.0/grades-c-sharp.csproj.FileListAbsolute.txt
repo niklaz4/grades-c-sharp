@@ -1,0 +1,15 @@
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\bin\Debug\net8.0\grades-c-sharp.exe
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\bin\Debug\net8.0\grades-c-sharp.deps.json
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\bin\Debug\net8.0\grades-c-sharp.runtimeconfig.json
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\bin\Debug\net8.0\grades-c-sharp.dll
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\bin\Debug\net8.0\grades-c-sharp.pdb
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\grades-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\grades-c-sharp.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\grades-c-sharp.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\grades-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\grades-c-sharp.sourcelink.json
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\grades-c-sharp.dll
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\refint\grades-c-sharp.dll
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\grades-c-sharp.pdb
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\grades-c-sharp.genruntimeconfig.cache
+C:\Users\Nicolas\Desktop\c#\project1\grades-c-sharp\obj\Debug\net8.0\ref\grades-c-sharp.dll
